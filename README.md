@@ -2,6 +2,18 @@
 
 A sleek, modern web application powered by Google Gemini AI. Built with a focus on user experience, Gemini Glow provides an intuitive interface for seamless AI interactions.
 
+![ai](https://img.shields.io/badge/ai-purple) ![gemini](https://img.shields.io/badge/gemini-blue) ![chat](https://img.shields.io/badge/chat-green) ![webapp](https://img.shields.io/badge/webapp-orange) ![open--source](https://img.shields.io/badge/open--source-red)
+
+## 📸 Demo
+
+> **Coming Soon!** A demo GIF showcasing the beautiful UI and real-time connectivity indicator will be added here.
+
+![Demo Placeholder](https://via.placeholder.com/800x400/667eea/ffffff?text=Gemini+Glow+Demo+Coming+Soon)
+
+*Features preview: App UI with connectivity indicator, chat interface, and settings panel*
+
+---
+
 ## 🚀 Features
 
 ### 🔑 Gemini API Key Settings
@@ -30,6 +42,8 @@ A sleek, modern web application powered by Google Gemini AI. Built with a focus 
 - **Send on Enter**: Quick message sending with Enter key (Shift+Enter for new lines)
 - **Loading Indicators**: Visual feedback while waiting for AI responses
 
+---
+
 ## 📁 Project Structure
 
 ```
@@ -41,6 +55,8 @@ gemini-glow/
 └── settings.js      # Settings management and localStorage handling
 ```
 
+---
+
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup structure
@@ -48,6 +64,8 @@ gemini-glow/
 - **Vanilla JavaScript**: No framework dependencies for lightweight performance
 - **LocalStorage API**: Client-side data persistence
 - **Google Gemini AI**: Powered by cutting-edge AI technology
+
+---
 
 ## 🎯 Getting Started
 
@@ -58,11 +76,15 @@ gemini-glow/
 5. **Select your preferred model** and theme
 6. **Save settings** and start chatting!
 
+---
+
 ## 🔐 Privacy & Security
 
 - All API keys are stored locally in your browser using localStorage
 - No data is sent to any third-party servers (except Google Gemini API)
 - Your conversations remain private and are not logged by this application
+
+---
 
 ## 🌟 Future Enhancements
 
@@ -73,13 +95,43 @@ gemini-glow/
 - [ ] Custom theme colors
 - [ ] Markdown rendering for AI responses
 
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from the community! Here's how you can help:
+
+### Quick Steps:
+
+1. **Fork** this repository
+2. **Create** a new branch (`git checkout -b feature/YourFeature`)
+3. **Make** your changes
+4. **Commit** your changes (`git commit -m 'Add some feature'`)
+5. **Push** to the branch (`git push origin feature/YourFeature`)
+6. **Open** a Pull Request
+
+### Guidelines:
+
+- Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines
+- Look for issues labeled **[good first issue](https://github.com/Arigitshub/gemini-glow/labels/good%20first%20issue)** - perfect for newcomers!
+- Issues labeled **help wanted** are great places to contribute
+- Follow the existing code style and conventions
+- Write clear commit messages
+- Update documentation as needed
+
+---
+
+## 🌟 Star this project if you like it!
+
+**If you find Gemini Glow useful, please consider giving it a ⭐ star on GitHub!** 
+
+Pull requests and contributions are always welcome! Together, we can make Gemini Glow even better. 🚀
+
+---
+
 ## 📄 License
 
 This project is open source and available for personal and commercial use.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 ---
 
