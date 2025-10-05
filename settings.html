@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings - Gemini Glow</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container settings-page">
+        <header>
+            <h1>⚙️ Settings</h1>
+            <a href="index.html" class="back-link">← Back to Chat</a>
+        </header>
+        
+        <main>
+            <div class="settings-container">
+                <div class="setting-group">
+                    <label for="apiKey">Gemini API Key</label>
+                    <input type="password" id="apiKey" placeholder="Enter your Gemini API key">
+                    <p class="setting-note">Get your API key from <a href="https://makersuite.google.com/app/apikey" target="_blank">Google AI Studio</a></p>
+                </div>
+                
+                <div class="setting-group">
+                    <label for="model">Model Selection</label>
+                    <select id="model">
+                        <option value="gemini-pro">Gemini Pro</option>
+                        <option value="gemini-pro-vision">Gemini Pro Vision</option>
+                    </select>
+                </div>
+                
+                <div class="setting-group">
+                    <label for="theme">Theme</label>
+                    <select id="theme">
+                        <option value="dark">Dark Mode</option>
+                        <option value="light">Light Mode</option>
+                    </select>
+                </div>
+                
+                <button id="saveBtn" class="primary-btn">Save Settings</button>
+            </div>
+        </main>
+    </div>
+    
+    <script src="settings.js"></script>
+</body>
+</html>
