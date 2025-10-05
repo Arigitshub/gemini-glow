@@ -1,5 +1,20 @@
 # ✨ Gemini Glow
 
+[![Stars](https://img.shields.io/github/stars/Arigitshub/gemini-glow)](https://github.com/Arigitshub/gemini-glow/stargazers)
+
+[![Forks](https://img.shields.io/github/forks/Arigitshub/gemini-glow)](https://github.com/Arigitshub/gemini-glow/network/members)
+
+[![Issues](https://img.shields.io/github/issues/Arigitshub/gemini-glow)](https://github.com/Arigitshub/gemini-glow/issues)
+
+[![License](https://img.shields.io/github/license/Arigitshub/gemini-glow)](LICENSE)
+
+[![Last Commit](https://img.shields.io/github/last-commit/Arigitshub/gemini-glow/main)](https://github.com/Arigitshub/gemini-glow/commits/main)
+
+[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Arigitshub/gemini-glow/pulls)
+
+
 A sleek, modern web application powered by Google Gemini AI. Built with a focus on user experience, Gemini Glow provides an intuitive interface for seamless AI interactions.
 
 ![ai](https://img.shields.io/badge/ai-purple) ![gemini](https://img.shields.io/badge/gemini-blue) ![chat](https://img.shields.io/badge/chat-green) ![webapp](https://img.shields.io/badge/webapp-orange) ![open--source](https://img.shields.io/badge/open--source-red)
