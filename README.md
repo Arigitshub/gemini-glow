@@ -2,7 +2,7 @@
 
 A sleek, modern web application powered by Google Gemini AI. Built with a focus on user experience, Gemini Glow provides an intuitive interface for seamless AI interactions.
 
-![ai](https://img.shields.io/badge/ai-purple) ![gemini](https://img.shields.io/badge/gemini-blue) ![chat](https://img.shields.io/badge/chat-green) ![webapp](https://img.shields.io/badge/webapp-orange) ![open--source](https://img.shields.io/badge/open--source-red)
+![ai](https://img.shields.io/badge/ai-purple) ![gemini](https://img.shields.io/badge/gemini-blue) ![chat](https://img.shields.io/badge/chat-green) ![webapp](https://img.shields.io/badge/webapp-orange) ![open--source](https://img.shields.io/badge/open--source-red) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📸 Demo
 
