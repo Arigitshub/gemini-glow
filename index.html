@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gemini Glow - AI-Powered Web App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>✨ Gemini Glow</h1>
+            <div class="connectivity-indicator" id="statusIndicator">
+                <span class="status-dot"></span>
+                <span class="status-text">Connecting...</span>
+            </div>
+        </header>
+        
+        <main>
+            <div class="chat-container">
+                <div class="messages" id="messages"></div>
+                <div class="input-area">
+                    <textarea id="userInput" placeholder="Ask Gemini anything..."></textarea>
+                    <button id="sendBtn">Send</button>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <a href="settings.html" class="settings-link">⚙️ Settings</a>
+        </footer>
+    </div>
+    
+    <script src="main.js"></script>
+</body>
+</html>
